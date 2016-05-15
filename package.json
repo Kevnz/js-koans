@@ -1,0 +1,27 @@
+{
+  "name": "js-koans",
+  "version": "1.0.0",
+  "description": "JS Koans",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "koans",
+    "learning",
+    "education"
+  ],
+  "author": "Kevin Isom <kevin.isom@gmail.com>",
+  "license": "Unlicense",
+  "dependencies": {
+    "eslint": "^2.10.1",
+    "eslint-config-airbnb-base": "^3.0.1",
+    "eslint-plugin-import": "^1.8.0",
+    "mocha": "^2.4.5",
+    "mocha-better-spec-reporter": "^3.0.2",
+    "mocha-multi": "^0.9.0",
+    "mocha-osx-reporter": "^0.1.2"
+  }
+}
